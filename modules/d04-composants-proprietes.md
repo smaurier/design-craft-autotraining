@@ -26,7 +26,7 @@ réutilisable, chaque carte est une copie indépendante — modifier le style d'
 n'affecte pas les autres, exactement le même problème que dupliquer un composant
 React au lieu de le paramétrer avec des props.
 
-C'est le point où le profil dev de Sylvain cesse d'être un simple atout théorique et
+C'est le point où ton profil dev cesse d'être un simple atout théorique et
 devient un raccourci de compréhension concret : ce module n'introduit pas un concept
 nouveau, il montre qu'un concept déjà parfaitement maîtrisé en code (une API de
 composant bien conçue) a un équivalent direct dans Framer, sous un autre vocabulaire.

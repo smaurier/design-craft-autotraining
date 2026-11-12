@@ -57,7 +57,7 @@ le designer lui-même" (piège #4 du module).
 ## Variante J+30 (fading)
 
 Reprendre les 2 échecs corrigés et les faire tester (sans explication préalable) par une
-tierce personne (Elda ou équivalent) : lui montrer uniquement le signe corrigé et lui
+tierce personne : lui montrer uniquement le signe corrigé et lui
 demander ce qu'elle comprend, sans contexte. Si elle ne retrouve pas le sens visé sans aide,
 la correction a seulement déplacé le problème — reprendre le signe jusqu'à ce qu'il tienne
 seul face à un regard neuf.

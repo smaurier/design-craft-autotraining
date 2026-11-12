@@ -47,6 +47,6 @@ vraie amélioration mesurable, ou la question est-elle trop vague pour guider un
 
 ## Variante J+30 (fading)
 
-Recevoir une vraie critique sur un de ses propres livrables (de Sylvain), appliquer la
+Recevoir une vraie critique sur un de tes propres livrables, appliquer la
 méthode de réception du module (reformuler avant de réagir, transformer en plan de révision
 argumenté) plutôt que de rédiger une critique sur le travail de quelqu'un d'autre.

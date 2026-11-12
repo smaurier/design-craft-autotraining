@@ -23,8 +23,8 @@ last-reviewed: 2026-10
 Un fichier Figma TribuZen s'appelle "Routines v2 FINAL (2)". Impossible de savoir, sans
 l'ouvrir, s'il s'agit vraiment de la version actuelle, ni ce qui distingue cette copie de la
 précédente, ni si quelqu'un travaille encore sur une autre branche de ce même fichier. Et
-quand Sylvain lui-même, une semaine plus tard, doit coder le composant `RoutineCard` depuis
-ce fichier, il découvre un calque nommé "Rectangle 47" sans aucune indication de token de
+quand toi-même, une semaine plus tard, tu dois coder le composant `RoutineCard` depuis
+ce fichier, tu découvres un calque nommé "Rectangle 47" sans aucune indication de token de
 couleur, de padding exact, ni de ce qui se passe à l'état "hover".
 
 Ce n'est pas un problème d'outil : Figma offre un historique de versions natif et un Dev Mode
@@ -126,9 +126,9 @@ Fichier initial : "Routines v2 FINAL (2).fig"
 
 - Toute la bibliothèque de composants TribuZen (module C06, à venir côté outil) bénéficie
   directement de cette convention de nommage par statut, plutôt que des copies au hasard.
-- Le dossier de handoff produit dans ce module devient le document de référence que Sylvain,
-  en rôle développeur, consulte pour coder réellement le composant — pas le fichier Figma
-  source qu'il devrait rouvrir et réinterpréter.
+- Le dossier de handoff produit dans ce module devient le document de référence que tu
+  consultes, en rôle développeur, pour coder réellement le composant — pas le fichier Figma
+  source qu'il faudrait rouvrir et réinterpréter.
 - Cette discipline prépare directement l'étude de cas du module suivant (A12) : un process
   documenté proprement se raconte beaucoup plus facilement qu'un process resté dans la tête.
 

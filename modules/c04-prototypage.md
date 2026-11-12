@@ -126,7 +126,7 @@ Besoin : un composant de statut (idle/loading/erreur/succès) pour le capstone c
 ## 5. Ancrage TribuZen
 
 - Le prototype `GazettePreview` (Exemple A) devient un livrable testable directement en
-  entretien ou avec un pair (Elda), sans explication orale préalable.
+  entretien ou avec un pair, sans explication orale préalable.
 - La logique de variable pilotant un état (Exemple B) s'applique à tout composant TribuZen
   qui a plusieurs états réels (une routine faite/en cours/en retard) — à privilégier
   systématiquement sur la duplication de frames.

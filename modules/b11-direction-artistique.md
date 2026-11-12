@@ -109,7 +109,7 @@ change pas d'échelle ; le périmètre des supports concernés s'élargit.
    facturation à l'usage), fond neutre sombre pour réduire la fatigue visuelle sur un
    dashboard consulté longtemps.
 3. **Variante "chaleur technique"** : reprendre l'esprit chaleureux de TribuZen (prouvant
-   que la méthode de l'entreprise de Sylvain peut se transporter) mais désaturé et assombri
+   que la méthode peut se transporter) mais désaturé et assombri
    pour convenir à un contexte professionnel dense en données.
 4. Choix justifié : la variante 2 répond le mieux au besoin identifié dans le brouillon du
    cours (UX de facturation à l'usage, capstone) car elle réserve explicitement l'accent vif

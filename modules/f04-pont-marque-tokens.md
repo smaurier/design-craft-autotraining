@@ -27,7 +27,7 @@ deux, une question simple révèle un trou fréquent : si la couleur de marque c
 sont pas concernés ?
 
 Si la réponse n'est écrite nulle part, elle vit "dans la tête" de la seule personne qui a fait
-le lien — ici Sylvain. Le jour où quelqu'un d'autre (un dev qui rejoint le projet, ou lui-même
+le lien — ici toi. Le jour où quelqu'un d'autre (un dev qui rejoint le projet, ou toi-même
 six mois plus tard sans s'en souvenir) doit faire cette mise à jour, il doit soit deviner, soit
 tout réinspecter depuis zéro. Ce module construit le document qui évite ça : la correspondance
 marque → token, écrite une fois, consultée ensuite.

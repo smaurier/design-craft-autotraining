@@ -6,7 +6,7 @@ notions: [commentaires épinglés vs commentaires externes, FigJam distinct du f
 outcomes: [animer un atelier FigJam de discovery ou de critique collective, distinguer un atelier FigJam d'un fichier de design Figma dans leur usage respectif, traduire explicitement le résultat brut d'un atelier en une structure actionnable]
 prerequis: [c08-plugins-utiles]
 next: d01-positionnement-outil
-tribuzen: atelier FigJam de discovery ou de critique collective (avec Elda comme pair réel si possible) traduit en wireframe exploitable, pont direct avec le module A04
+tribuzen: atelier FigJam de discovery ou de critique collective (avec un pair réel si possible) traduit en wireframe exploitable, pont direct avec le module A04
 last-reviewed: 2026-10
 ---
 
@@ -21,14 +21,14 @@ last-reviewed: 2026-10
 ## 1. Cas concret d'abord
 
 Tous les labs produits depuis le module A01 ont été réalisés SEUL — c'est une contrainte
-réelle du contexte de Sylvain (unique développeur de TribuZen), mais ce n'est pas comment le
+réelle du contexte de ce parcours (unique développeur de TribuZen), mais ce n'est pas comment le
 métier se pratique en équipe. Le module A03 a déjà introduit le tri par cartes "simulé seul,
 en se forçant à l'honnêteté" — une approximation honnête, pas l'expérience réelle. Un
 recruteur qui évalue un profil "créatif-front-end hybride" (cf. brief Kerion) voudra savoir
 si le candidat sait aussi FACILITER un atelier collectif, pas seulement produire seul.
 
 Ce module ferme cette approximation en organisant un vrai atelier avec au moins une autre
-personne réelle (Elda, ou un pair équivalent), et en traitant son résultat correctement : un
+personne réelle, un pair, et en traitant son résultat correctement : un
 tas de post-its n'est pas encore un livrable de conception.
 
 ## 2. Théorie complète, concise
@@ -80,18 +80,18 @@ post-its devient un exercice social sympathique sans aucune suite concrète pour
 
 ## 3. Worked examples
 
-### Exemple A — atelier de discovery avec Elda, traduit en wireframe
+### Exemple A — atelier de discovery avec un pair, traduit en wireframe
 
 Sujet : un écran TribuZen pas encore designé (ex. une vue "historique des routines" sur
 plusieurs semaines).
 
 1. Ouvrir un fichier FigJam, poser la question ouverte en haut ("qu'est-ce qu'on voudrait
    voir/savoir sur l'historique des routines ?").
-2. Demander à Elda (ou un pair réel) d'écrire librement des post-its pendant 10-15 minutes,
+2. Demander au pair d'écrire librement des post-its pendant 10-15 minutes,
    sans jugement ni tri pendant cette phase — le volume prime sur la clarté.
 3. Une fois la collecte terminée, regrouper les post-its ensemble à voix haute (equivalent
    d'un tri par cartes réel, cf. 2.3) — noter les regroupements qui émergent du point de vue
-   d'Elda, potentiellement différents de ceux que Sylvain aurait faits seul.
+   du pair, potentiellement différents de ceux que tu aurais faits seul.
 4. Après l'atelier (phase de traduction, 2.4) : transformer les groupes de post-its en un
    wireframe basse fidélité (pont module A04) qui répond explicitement aux idées les plus
    représentées, pas à la préférence personnelle du facilitateur.

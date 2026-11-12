@@ -28,7 +28,7 @@ viennent-elles exactement, et sous quelle licence ?
 
 Ce ne sont pas des questions théoriques : une police trouvée "gratuite" sur un site
 d'agrégation peut très bien interdire l'usage commercial, ou exiger une licence web séparée
-au-delà d'un certain nombre de vues mensuelles. Ce module ne fait pas de Sylvain un juriste —
+au-delà d'un certain nombre de vues mensuelles. Ce module ne fait de personne un juriste —
 il donne les 2-3 questions à poser systématiquement avant de considérer une charte comme
 livrable, pour ne jamais découvrir le problème après coup.
 
@@ -69,7 +69,7 @@ licence, jamais une généralisation depuis un usage déjà vérifié pour un au
 
 ### 2.4 Portée volontairement limitée de ce module — et pourquoi c'est assumé
 
-Ce module ne prétend pas transformer Sylvain en juriste de la propriété intellectuelle — ce
+Ce module ne prétend pas faire de toi un juriste de la propriété intellectuelle — ce
 serait hors de portée et hors sujet pour ce cours. L'objectif réaliste et suffisant : savoir
 identifier qu'une question de licence EXISTE pour une ressource donnée, et savoir où aller
 chercher la réponse exacte (la page de licence officielle de la police ou de l'image), plutôt

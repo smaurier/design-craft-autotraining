@@ -19,7 +19,7 @@ Choisis un sujet TribuZen pas encore designé (ex. une vue historique, un écran
 paramétrage, ou équivalent — pas un sujet déjà traité dans un lab précédent).
 
 1. Ouvre un fichier FigJam, pose une question ouverte en haut.
-2. Avec un vrai pair (Elda, ou à défaut une personne réelle disponible — pas toi-même en
+2. Avec un vrai pair (une personne réelle disponible — pas toi-même en
    simulant plusieurs points de vue), collecte au moins 15 post-its en 10-15 minutes, sans
    tri ni jugement pendant cette phase.
 3. Regroupe les post-its ensemble, à voix haute, en notant les regroupements qui émergent —

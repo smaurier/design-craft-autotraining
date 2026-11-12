@@ -62,7 +62,7 @@ différentes, ou cache-t-elle en réalité une seule solution déjà choisie à 
 
 ## Variante J+30 (fading)
 
-Reprendre un brief flou réellement reçu par Sylvain dans un contexte professionnel passé
+Reprendre un brief flou que tu as réellement reçu dans un contexte professionnel passé
 (mission ESN, ou une demande client mal cadrée) et appliquer la même méthode à froid, sans
 relire le module avant de commencer — ne consulter le module qu'en cas de blocage réel sur
 une étape précise.

@@ -95,7 +95,7 @@ A01 exigeait des critères de succès mesurables qu'aucun module n'apprenait à 
   parce qu'un portfolio n'a ni volume de données ni rôles.
 
 Chaque lab des blocs G et H ouvre par un **échauffement** court, contraint et jetable, sur un
-sujet qui n'est pas un projet de Sylvain : le geste s'isole avant de s'appliquer au réel.
+sujet qui n'est aucun de tes projets : le geste s'isole avant de s'appliquer au réel.
 
 **La calibration du bloc H se fait contre un design system public et documenté** (DSFR, GOV.UK
 Design System, IBM Carbon, Shopify Polaris, Material 3) : concevoir un composant **à

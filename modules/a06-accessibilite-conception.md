@@ -46,7 +46,7 @@ l'utilisateur au clavier rencontre les deux dans un ordre qui ne correspond à r
 Ce n'est pas un problème de développement à corriger plus tard : c'est une question de
 conception à trancher dès la maquette. Chaque wireframe doit porter une annotation explicite
 de l'ordre de parcours attendu (numéroter les éléments 1, 2, 3...), pour que le futur
-développeur (Sylvain lui-même, en autre casquette) sache quel ordre coder, sans deviner.
+développeur (toi-même, en autre casquette) sache quel ordre coder, sans deviner.
 
 ### 2.2 Zones tactiles — la cible doit être assez grande pour être atteinte
 

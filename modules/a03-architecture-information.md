@@ -29,7 +29,7 @@ raisonnement que la palette "ça allait bien" du module B02.
 
 Le risque concret : une IA décidée au jugé tient tant qu'il n'y a qu'un seul utilisateur qui
 connaît déjà toute la structure par cœur (lui-même). Elle s'effondre dès qu'une tierce
-personne (Elda, un recruteur qui teste le produit, un futur utilisateur réel de TribuZen)
+personne (un proche, un recruteur qui teste le produit, un futur utilisateur réel de TribuZen)
 doit la comprendre sans explication orale. Ce module construit la méthode pour qu'une
 structure de navigation soit justifiable et testée, pas seulement familière à son auteur.
 

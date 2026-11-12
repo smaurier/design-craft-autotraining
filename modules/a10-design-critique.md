@@ -191,7 +191,7 @@ regarder ça").
 
 ## 5. Ancrage TribuZen
 
-Toute revue de maquette TribuZen (seul en auto-critique, ou avec un pair comme Elda)
+Toute revue de maquette TribuZen (seul en auto-critique, ou avec un pair)
 passe par la grille objectif/contrainte/décision plutôt que par un jugement direct. Le
 plan de révision (Exemple B) devient une pièce traçable du process — utile en
 entretien pour montrer qu'on sait recevoir une critique sans la défendre

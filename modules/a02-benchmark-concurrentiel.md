@@ -139,7 +139,7 @@ Avant de designer `GazettePreview` ou `FamilyDashboard` (labs des modules suivan
 benchmarker 3-5 apps familiales ou de gestion de foyer réelles (pas forcément des concurrents
 directs — une app de calendrier familial, une app de gestion de tâches partagées) sur le
 critère précis "comment l'app évite de surcharger un parent déjà occupé" — directement
-transférable au problème TribuZen identifié ailleurs dans le parcours de Sylvain.
+transférable au problème TribuZen identifié ailleurs dans le parcours.
 
 ## 6. Points clés
 

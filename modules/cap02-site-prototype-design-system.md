@@ -35,7 +35,7 @@ se manipulent réellement.
 
 Les maquettes Figma du mois 3 montrent un site vitrine à plat. Ce module les transforme en
 prototype réellement navigable — soit en Framer (Bloc D : d01 à d07, positionnement, canvas
-responsive, interactions, publication), soit en Figma→React si le profil dev de Sylvain rend
+responsive, interactions, publication), soit en Figma→React si ton profil dev rend
 cette voie plus pertinente pour une pièce de portfolio technique. Le choix entre les deux
 suit directement la règle du module d01 (positionnement de l'outil) : un site vitrine simple
 à moyen, sans logique métier complexe, est un terrain naturel pour Framer ; s'il faut

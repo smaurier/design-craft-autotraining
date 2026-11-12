@@ -23,7 +23,7 @@ last-reviewed: 2026-10
 Les modules D02 à D05 ont construit toute la landing page TribuZen avec des outils
 purement visuels — Stacks, variants, Collection. Un designer sans aucune compétence de
 développement peut aller jusque-là. Ce module couvre exactement le point où ce designer
-s'arrêterait et où le profil hybride de Sylvain commence : un besoin qui dépasse ce que le
+s'arrêterait et où ton profil hybride commence : un besoin qui dépasse ce que le
 panneau de propriétés de Framer permet d'exprimer visuellement (une validation de champ
 avec une règle métier simple, un compteur qui réagit à un clic, un appel à une API externe
 légère). Un **Code Override** est le point d'extension officiel de Framer pour exactement

@@ -20,7 +20,7 @@ last-reviewed: 2026-10
 
 ## 1. Cas concret d'abord
 
-Sylvain pratique déjà la veille sur Awwwards pour nahual.fr — regarder ce qui est primé,
+Tu pratiques déjà la veille sur Awwwards pour nahual.fr — regarder ce qui est primé,
 s'en inspirer. Mais un site vitrine créatif primé sur Awwwards (souvent : un portfolio ou
 une expérience narrative, lue une fois, sans tâche répétée) et une console de pilotage GPU
 dense en données (lue des centaines de fois par jour par le même utilisateur, qui doit agir

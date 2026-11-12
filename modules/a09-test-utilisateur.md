@@ -6,7 +6,7 @@ notions: [think-aloud protocol, tâche vs question, loi des 5 utilisateurs de Ni
 outcomes: [écrire un protocole de test utilisateur de 5 tâches sans biaiser les réponses, conduire une session think-aloud sans intervenir prématurément, distinguer un verbatim brut d'une interprétation dans un compte-rendu]
 prerequis: [a05-heuristiques-ux]
 next: a10-design-critique
-tribuzen: protocole de test sur un flow TribuZen réel, passé à une vraie personne (Elda ou équivalent)
+tribuzen: protocole de test sur un flow TribuZen réel, passé à une vraie personne
 last-reviewed: 2026-10
 ---
 
